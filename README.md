@@ -14,16 +14,19 @@ Implement linear regression and SVM model with one variable to predict profits f
 - Linear regression
 
 **Dataset**
+
 - ex1data1
+
 The file ex1data1.txt contains the dataset for our linear regression problem. The first column is the population of a city (in 10,000s) and the second column is the profit of a food truck in that city (in $10,000s). A negative value for profit indicates a loss.
 
 **Acurracy**
+
 SVM
--MAE: 3.0159735465299886
--MSE: 17.53016146055226
--RMSE: 4.186903564754299
+- MAE: 3.0159735465299886
+- MSE: 17.53016146055226
+- RMSE: 4.186903564754299
 
 Linear Regression
--MAE: 2.4999554242777218
--MSE: 11.305525431571308
--RMSE: 3.362369020730965
+- MAE: 2.4999554242777218
+- MSE: 11.305525431571308
+- RMSE: 3.362369020730965
